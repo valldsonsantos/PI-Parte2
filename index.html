@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro Centralizado</title>
+    <link rel="stylesheet" href="style.css"> <!-- CSS -->
+</head>
+<body>
+    <header>
+        <h1>Universidade Life - Cadastro Centralizado </h1>
+    </header>
+
+    <main>
+        <form id="cadastroForm">
+            <!-- Escolha do Tipo de Cadastro -->
+            <div class="form-group">
+                <label for="tipoCadastro">Selecione o Tipo de Cadastro:</label>
+                <select id="tipoCadastro" name="tipoCadastro" required>
+                    <option value="">-- Selecione --</option>
+                    <option value="aluno">Aluno</option>
+                    <option value="professor">Professor</option>
+                    <option value="fornecedor">Fornecedor</option>
+                    <option value="pessoaFisica">Pessoa Física</option>
+                    <option value="pessoaJuridica">Pessoa Jurídica</option>
+                </select>
+            </div>
+
+            <!-- Campos Comuns -->
+            <div class="form-group">
+                <label for="nome">Nome Completo:</label>
+                <input type="text" id="nome" name="nome" required>
+            </div>
+
+            <!-- Campos Dinâmicos -->
+            <div id="camposDinamicos">
+                <!-- Os campos serão adicionados aqui com JavaScript -->
+            </div>
+
+            <!-- Botão de Envio -->
+            <div class="form-group">
+                <button type="submit">Cadastrar</button>
+            </div>
+        </form>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Cadastro Centralizado - Todos os direitos reservados.</p>
+    </footer>
+
+    <script src="script.js"></script> <!-- JavaScript -->
+</body>
+</html>
