@@ -1,3 +1,11 @@
+![WhatsApp Image 2024-11-21 at 20 24 20](https://github.com/user-attachments/assets/ab104533-3700-44a6-b669-6496ad683929)
+![WhatsApp Image 2024-11-21 at 20 23 52](https://github.com/user-attachments/assets/95710a36-ae4c-4222-86df-10ce81707b41)
+![WhatsApp Image 2024-11-21 at 20 23 04](https://github.com/user-attachments/assets/f0a772d1-fcaa-4528-baa9-f4b7c2f1978d)
+![WhatsApp Image 2024-11-21 at 20 21 55](https://github.com/user-attachments/assets/6a678dda-0dee-4b97-9181-f65636f4d4e5)
+![WhatsApp Image 2024-11-21 at 20 20 21](https://github.com/user-attachments/assets/8ddd1963-5d3e-49cf-9de3-914d3ef7e1da)
+![Diagrama de Caso de Uso 01_page-0001](https://github.com/user-attachments/assets/16f19650-a0d4-4a64-baac-5ee29a61d183)
+![diagrama](https://github.com/user-attachments/assets/a4af3032-ae1e-4c16-aa5a-e66501e4aa1b)
+
 # Projeto Integrador 
 
 # Indice
